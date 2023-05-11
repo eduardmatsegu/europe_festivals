@@ -1,0 +1,1 @@
+var json_rampage_18 = {"type":"FeatureCollection","name":"rampage_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"8","DATA":"2023-06-30","HEADLINER":"SUBTRONICS","NOM":"Rampage Renegade","Génere":"DUBSTEP"},"geometry":{"type":"Point","coordinates":[4.441796866306353,51.230281550245962]}}]}

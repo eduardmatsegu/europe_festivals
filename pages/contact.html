@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie-edge">
+   
+   <link rel="stylesheet" href="../css/style.css">
+   <title>Festivals in Europe</title>
+</head>
+<body>
+   <header>
+      <h2 class="logo">
+         <img src="./images/logopagina.jpg">
+      </h2>
+      <input type="checkbox" id="check">
+      <label for="check" class="mostrar-menu">
+         &#8801
+      </label>
+
+      <nav class="menu">
+           <a href="../index.html">Inici</a>
+           <a href="./pages/maps.html">Localització</a>
+           <a href="./pages/genre.html">Géneres Musicals</a>
+           <a href="./pages/artists.html">Artistes</a>
+           <a href="./pages/contact.html">Contacte</a>
+          <label for="check" class="esconder-menu">
+          &#215
+          </label>
+        </nav>
+
+</header>
+
+<body>  
+
+  <div class="contact_form">
+
+    <div class="formulario">      
+      <h1>Formulari de contacte</h1>
+        <h3>Diposita aqui informació i consultes sobre el teu festival preferit
+        </h3>
+
+
+          <form action="submeter-formulario.php" method="post">       
+
+            
+                <p>
+                  <label for="nom" class="colocar_nombre">Nom
+                    <span class="obligatorio">*</span>
+                  </label>
+                    <input type="text" name="introducir_nombre" id="nombre" required="obligatorio" placeholder="Escriu el teu nom">
+                </p>
+              
+                <p>
+                  <label for="Adreça correu" class="colocar_email">Mail de contacte
+                    <span class="obligatorio">*</span>
+                  </label>
+                    <input type="email" name="introducir_email" id="email" required="obligatorio" placeholder="Escriu el teu mail">
+                </p>
+            
+                <p>
+                  <label for="telefon" class="colocar_telefono">Telefon
+                  </label>
+                    <input type="tel" name="introducir_telefono" id="telefono" placeholder="Escriu el teu telefon">
+                </p>    
+              
+                <p>
+                  <label for="Codi Postal" class="colocar_website">Codi Postal
+                  </label>
+                    <input type="text" name="introducir_website" id="website" placeholder="Escriu el teu codi postal">
+                </p>    
+              
+                <p>
+                  <label for="Asumpte" class="colocar_asunto">Asumpte
+                  </label>
+                    <input type="text" name="introducir_asunto" id="assunto" required="no obligatorio" placeholder="Escriu el teu asumpte">
+                </p>    
+              
+                <p>
+                  <label for="Missatge" class="colocar_mensaje">Missatge
+                    <span class="obligatorio">*</span>
+                  </label>                     
+                                    <textarea name="introducir_mensaje" class="texto_mensaje" id="mensaje" required="obligatorio" placeholder="Deixa el teu missatge..."></textarea> 
+                                </p>                    
+                <p>
+                <button type="submit"href="./index.html">Enviar</p></button>
+
+                <p class="aviso">
+                  <span class="obligatorio"> * </span>Aquests camps són obligatoris
+                </p>          
+            
+          </form>
+
+</body>
+</html>

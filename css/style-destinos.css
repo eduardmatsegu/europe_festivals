@@ -1,0 +1,138 @@
+/* RESET */
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Genova, Tahona, sans-serif;
+}
+
+/* HEADER */
+header{
+	height: 80px;
+	background-color: #ffa114;
+	padding: 0 50px;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+.logo{
+	font-size: 40px;
+	font-weight: 200px;
+	justify-content: space-between;
+	align-items: center;
+	color: white;
+}
+
+.logo img{
+	justify-content: space-between;
+	align-items: center;
+	max-width: 90px;
+	max-height: 60px;
+}
+
+.menu a{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 0 10px;
+	transition: 0.4;
+}
+.mostrar-menu,
+.esconder-menu{
+	font-size: 30px;
+	cursor: pointer;
+	display: none;
+	transition: 0.4;
+}
+
+.mostrar-menu{
+	order:1;
+}
+
+.menu a:hover,
+.mostrar-menu:hover,
+.esconder-menu:hover{
+	color: rgb(20, 20, 20);
+}
+
+#check{
+	display: none;
+}
+
+
+/* MAIN */
+
+main{
+    max-width: 1500px;
+    height: calc(40vh + 150px);
+    padding: 40px;
+    margin: auto;
+
+}
+
+.cover{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+
+.cover img{
+    width: 650px;
+    margin-right: 20px;
+}
+
+.text__information-cover{
+    width: 50%;
+    margin-left: 30PX;
+    margin-top: 20px;
+}
+
+.text__information-cover h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.text__information-cover a{
+    font-size: 20px;
+    max-width: 50%;
+    color: rgb(91, 83, 2);
+    margin-left: 30px;
+    }
+
+
+/* FOOTER */
+
+footer{
+    background-color: #eeeeee70;
+    text-align: center;
+    padding: 3rem;
+    font-size: 20px;
+}
+
+.buttons {
+    min-width: 700px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #314652;
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out;
+  }
+  
+  .buttons a:hover {
+    transform: scale(1.2);
+  }
+

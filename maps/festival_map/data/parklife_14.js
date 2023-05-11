@@ -1,0 +1,1 @@
+var json_parklife_14 = {"type":"FeatureCollection","name":"parklife_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"12","DATA":"2023-06-10","HEADLINER":"SKRILLEX","NOM":"PARKLIFE FESTIVAL","Génere":"VARIETY"},"geometry":{"type":"Point","coordinates":[-2.256580388148866,53.534673255466359]}}]}

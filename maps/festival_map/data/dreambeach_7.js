@@ -1,0 +1,1 @@
+var json_dreambeach_7 = {"type":"FeatureCollection","name":"dreambeach_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"14","DATA":"2023-08-09","HEADLINER":"HARDWELL","NOM":"DREAMBEACH","Génere":"EDM"},"geometry":{"type":"Point","coordinates":[-1.770356525270007,37.249707304057843]}}]}

@@ -1,0 +1,1 @@
+var json_nameless_13 = {"type":"FeatureCollection","name":"nameless_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2","DATA":"2023-06-02","HEADLINER":"HARDWELL","NOM":"Nameless Music Festival","Génere":"EDM"},"geometry":{"type":"Point","coordinates":[9.312889432177329,45.793449458226021]}}]}

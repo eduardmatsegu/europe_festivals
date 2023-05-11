@@ -1,0 +1,1 @@
+var json_sziget_19 = {"type":"FeatureCollection","name":"sziget_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"15","DATA":"2023-08-10","HEADLINER":"DAVID GUETTA","NOM":"SZIGET FESTIVAL","Génere":"VARIETY"},"geometry":{"type":"Point","coordinates":[19.054364871616009,47.552477093131074]}}]}

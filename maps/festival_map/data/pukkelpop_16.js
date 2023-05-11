@@ -1,0 +1,1 @@
+var json_pukkelpop_16 = {"type":"FeatureCollection","name":"pukkelpop_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"18","DATA":"2023-08-17","HEADLINER":"AMELIE LENS","NOM":"PUKKELPOP","Génere":"VARIETY"},"geometry":{"type":"Point","coordinates":[5.355566292225662,50.961477606919068]}}]}

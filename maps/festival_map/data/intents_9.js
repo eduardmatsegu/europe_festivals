@@ -1,0 +1,1 @@
+var json_intents_9 = {"type":"FeatureCollection","name":"intents_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"10","DATA":"2023-06-02","HEADLINER":"SUB ZERO PROJECT","NOM":"INTENTS FESTIVAL","Génere":"HARD"},"geometry":{"type":"Point","coordinates":[5.199161459990738,51.564166197194297]}}]}

@@ -1,0 +1,1 @@
+var json_defqoon_6 = {"type":"FeatureCollection","name":"defqoon_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"13","DATA":"2023-06-22","HEADLINER":"HEADHUNTERZ","NOM":"DEFQON.1 NETHERLANDS","Génere":"HARD"},"geometry":{"type":"Point","coordinates":[5.765854229711083,52.440413907420002]}}]}
