@@ -16,12 +16,12 @@ Mapa dels 20 festivals amb més afluència de Europa
   En aquest apartar, s'explica l'estructura preliminar de la pàgina web.
   En l'apartat inicial de la web, s'ilustrarà una introducció sobre els festivals adjuntant un video de Ultra Europa, un dels festivals més coneguts del continent.
   Un altre apartat són el mapa que permet visualitzar cada festival on es situa.
-  L'apartat de artistes té la funcionalitt de conèixer aquells artistes que formen part, de moment, dels nostre catàleg.
+  L'apartat de artistes té la funcionalitt de conèixer aquells artistes que formen part, de moment, dels nostre catàleg. Cadascuna de les imatges et redirigeix al tour de cada artista per, si hi haguessin canvis, verificar les noves dates i ubicacions (degut a que el servei encara no es troba automatitzat)
   Finalment el contacte permet establir una relació i resoldre possibles incidències.
   
 ## Web
+https://eduardmatsegu.github.io/europe_festivals/
 
-  
 
 ## Responsive
 Alguns apartats si que són responsive com el dels artistes, però m'ha faltat fer un resposive per el header, ja que dos tècniques emprades no m'han donat resultat.
