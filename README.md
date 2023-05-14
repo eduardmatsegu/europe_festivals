@@ -20,8 +20,12 @@ Mapa dels 20 festivals amb més afluència de Europa
   Finalment el contacte permet establir una relació i resoldre possibles incidències.
   
 ## Web
-  [Festival in Europe](http://127.0.0.1:5500/FESTIVALS/index.html)
+
   
+
+## Responsive
+Alguns apartats si que són responsive com el dels artistes, però m'ha faltat fer un resposive per el header, ja que dos tècniques emprades no m'han donat resultat.
+
 ## Cartografia
   *La cartografía esta realitzad amb el programari lliure QGis 3.16.16*
   
