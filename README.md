@@ -38,4 +38,5 @@ Alguns apartats si que són responsive com el dels artistes, però m'ha faltat f
   projecte encara inclomplert ha estat clarament el desconeixement de les eines
   que permeten contruir una pàgina web: GitHub Desktop, notepad++, etc... i llenguatges com  html, css i markdown.
   En el camp de la cartografia la utilització de icones svg complica la visualització de les icones. Aquests pas es resolt amb el programari Inkscape.
+  Una de les principals dificultats ha sigut la realització del projecte segons lo aprés en l'assignatura compaginant-se amb la cerca d'informació per youtube, l'ús de plantilles genera un resultat molt més profesional i estètic, però no s'aprén tot el que s'aprén si es fa per via pròpia. 
   
